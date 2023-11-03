@@ -1,41 +1,51 @@
 <div align=center>
-	<img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:66d9e8,100:eebefa&height=350&section=header&text=MooHyun's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Web%20Front%20End%20Developer&rotate=0"/>
+	<img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:66d9e8,100:eebefa&height=150&section=header&text=MooHyun's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&rotate=0"/>
 </div>
 
+<br><br><br><br>
+
+
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>💡 주 사용 Skill & Stack 💡</h3>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=fff"/>
 	<br>	
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/>
 </div>
-<br>
+<br><br><br><br>
+
+<div align=center>
+	<h3>✏ 최근 관심 Skill & Stack ✏</h3>
+</div>
+<div align="center">
+ 	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+  	<img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
+   	<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff"/>
+	<br>
+    	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+    	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff"/>
+</div>
+
+
+<br><br><br><br>
 <div align="center">	
 	
-### 🎥 ProJect 🎥
+### 📑 ProJect 📑
 <!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
 
 
 
-| Date | Contents | With |
-|:---:|:---:|:---:|
-| 23.12 | ################# | ############# |
-| 23.11 | ################## |################# |
-| 23.10.1~23.11.10 |[온라인 BOOKSTORE 제작](https://github.com/wwnoov/Team_ProJect)| 4조 팀프로젝트 |
-| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트](https://github.com/wwnoov/ww_project/tree/cba9c59afb5fa5222a1a637c5185aec5a41492c2/Java_Mybatis_Project) | 개인프로젝트 |
-| 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 웹퍼블리싱](https://github.com/wwnoov/ww_project/tree/cba9c59afb5fa5222a1a637c5185aec5a41492c2/Oc_ProJect) | 개인프로젝트 |
+| Date | Contents | With | Link |
+|:---:|:---:|:---:|:---:|
+| 23.10 ~ 23.11 | 온라인 BOOKSTORE 제작 | Team 프로젝트 | [🏷](https://github.com/LMH9999/Team_ProJect_1) |
+| ---- 23.10 ---- | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/LMH_Java_Sprj) |
+| ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/LMH_Web_SPrj) |
+| 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
 
 
   
-</div>
-<br>
-<div align="center">	
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwnoov%2Fwwnoov&count_bg=%23454942&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
