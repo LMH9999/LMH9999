@@ -1,7 +1,6 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&section=header&text=MooHyun!&fontSize=90"/>
+	<img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:66d9e8,100:eebefa&height=350&section=header&text=MooHyun's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Web%20Front%20End%20Developer&rotate=0"/>
 </div>
-
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
