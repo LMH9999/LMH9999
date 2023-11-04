@@ -1,7 +1,7 @@
 ---
 <br><br>
 <div align=center>
-	<img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:66d9e8,100:eebefa&height=150&section=header&text=MooHyun's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&rotate=0"/>
+	<img src = "https://capsule-render.vercel.app/api?type=rounded&color=ffff00&height=150&section=header&text=MooHyun's%20GitHub&animation=twinkling&fontSize=50&fontColor=000000&rotate=0"/>
 </div>
 
 <br><br>
