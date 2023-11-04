@@ -1,9 +1,13 @@
+---
+<br><br>
 <div align=center>
 	<img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:66d9e8,100:eebefa&height=150&section=header&text=MooHyun's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&rotate=0"/>
 </div>
 
 <br><br>
+
 ---
+
 <br><br>
 
 
@@ -19,7 +23,12 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/>
 </div>
-<br><br><br><br>
+<br><br>
+
+---
+
+<br><br>
+
 
 <div align=center>
 	<h3>✏ 최근 관심 Skill & Stack ✏</h3>
@@ -35,7 +44,9 @@
 
 
 <br><br>
+
 ---
+
 <br><br>
 <div align="center">	
 	
