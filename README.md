@@ -5,9 +5,9 @@
 
 <br><br>
 
-<h2 align="center">
+<h3 align="center">
 Hello ! 👋 Welcome to My Repositories 😁
-</h2>
+</h3>
 
 ---
 
