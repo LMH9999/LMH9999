@@ -5,10 +5,9 @@
 
 <br><br>
 
-<h3 align="center">
+<h2 align="center">
 Hello ! 👋 Welcome to My Repositories 😁
-</h3>
-<br>
+</h2>
 
 ---
 
@@ -62,5 +61,7 @@ Hello ! 👋 Welcome to My Repositories 😁
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/LMH_Web_SPrj) |
 | 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
 
+
+<br><br><br>
 
   
