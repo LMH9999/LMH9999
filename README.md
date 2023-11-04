@@ -1,10 +1,13 @@
----
-<br><br>
+<br>
 <div align=center>
 	<img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:f99b00,100:ffff00&height=150&section=header&text=MooHyun's%20GitHub&animation=twinkling&fontSize=50&fontColor=000000&rotate=0"/>
 </div>
 
 <br><br>
+
+<h3 align="center">
+Hello ! 👋 Welcome to My Repositories 😁
+</h3>
 
 ---
 
@@ -14,6 +17,7 @@
 <div align=center>
 	<h3>💡 주 사용 Skill & Stack 💡</h3>
 </div>
+<br>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff"/>
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=fff"/>
@@ -29,6 +33,7 @@
 <div align=center>
 	<h3>✏ 최근 관심 Skill & Stack ✏</h3>
 </div>
+<br>
 <div align="center">
  	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
   	<img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
@@ -47,9 +52,7 @@
 <div align="center">	
 	
 ### 📑 ProJect 📑
-<!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
-
-
+<br>
 
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
