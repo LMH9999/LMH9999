@@ -25,10 +25,6 @@
 </div>
 <br><br>
 
----
-
-<br><br>
-
 
 <div align=center>
 	<h3>✏ 최근 관심 Skill & Stack ✏</h3>
