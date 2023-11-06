@@ -44,7 +44,7 @@ Hello ! 😁 Welcome to My Repositories 😁
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff"/>
 	<br>
     	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-    	<img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
+    	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff"/>
 </div>
 
 
