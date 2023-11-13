@@ -60,8 +60,8 @@ Hello ! 😁 Welcome to My Repositories 😁
 
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
-| 23.11 ~ 23.12 | JSP 팀플 | 팀 프로젝트 | (#) |
-| ---- 23.11 ---- | JSP 게시판 만들기 | 개인 프로젝트 | (#) |
+| 23.11 ~ 23.12 | JSP 팀플 | 팀 프로젝트 | [🏷](#) |
+| ---- 23.11 ---- | JSP 게시판 만들기 | 개인 프로젝트 | [🏷](#) |
 | 23.10 ~ 23.11 | 온라인 BOOKSTORE 제작 | 팀 프로젝트 | [🏷](https://github.com/LMH9999/Team_ProJect_1) |
 | ---- 23.10 ---- | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/LMH_Java_Sprj) |
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/LMH_Web_SPrj) |
