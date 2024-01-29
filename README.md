@@ -60,8 +60,8 @@ Hello ! 😁 Welcome to My Repositories 😁
 
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
-| 24.01 ~ 24.02 | 클래스 아카이브 역설계 ( DeumE-Archive ) | 팀 프로젝트 | [🏷](https://github.com/DeumE-Project/DeumE-Archive) |
-| 23.12 ~ 24.01 | 문구 쇼핑몰 ( DeumE-Shop ) | 팀 프로젝트 | [🏷](https://github.com/Last-but-not-LEAST/LBNL) |
+| 24.01 ~ 24.02 | 클래스 아카이브 역설계 ( SpringBoot ) | 팀 프로젝트 | [🏷](https://github.com/DeumE-Project/DeumE-Archive) |
+| 23.12 ~ 24.01 | 문구 쇼핑몰 ( Spring ) | 팀 프로젝트 | [🏷](https://github.com/Last-but-not-LEAST/LBNL) |
 | ---- 23.12 ---- | 스프링 게시판과 AJAX를 이용한 댓글 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/SpringBoardComment) |
 | 23.11 ~ 23.12 | 부모님을 위한 정보 공유 사이트 (JSP) | 팀 프로젝트 | [🏷](https://github.com/ChunjaeMomCh/MomChannel) |
 | ---- 23.11 ---- | JSP 게시판 마이바티스로 변경 해보기 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/MyBatis_mvc2_board) |
