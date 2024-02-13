@@ -18,34 +18,61 @@ Hello ! 😁 Welcome to My Repositories 😁
 <br><br>
 
 
-<div align=center>
-	<h3>💡 주 사용 Skill & Stack 💡</h3>
+<div>
+	<h3>💡 Main Skill & Stack</h3>
 </div>
 <br>
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff"/>
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=fff"/>
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=fff"/>
 	<br>	
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/>
+
+
+<img src="https://img.shields.io/badge/Spring-6db33f)?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-73398D?style=for-the-badge&logo=&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/InteliJ IDEA-000000?style=for-the-badge&logo=InteliJ IDEA&logoColor=white"/>
+      
+
+ 
 </div>
 <br><br>
 
+<div>
+	<h3>💭 Experience Tech</h3>
+</div>
+<br>
+<div>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/>
+	<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
+	<br>
+     	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>  
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+</div>
 
-<div align=center>
+<br><br>
+
+<div>
 	<h3>✏ 최근 관심 Skill & Stack ✏</h3>
 </div>
 <br>
-<div align="center">
+<div>
  	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
-   	<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff"/>
-	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff"/>
-	<br>
     	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-    	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff"/>
 </div>
+
+
+
 
 
 <br><br>
