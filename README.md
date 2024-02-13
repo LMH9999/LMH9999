@@ -63,7 +63,7 @@ Hello ! 😁 Welcome to My Repositories 😁
 <br><br>
 
 <div>
-	<h3>✏ 최근 관심 Skill & Stack ✏</h3>
+	<h3>✏ Polishing Up Skill & Stack</h3>
 </div>
 <br>
 <div>
@@ -80,9 +80,9 @@ Hello ! 😁 Welcome to My Repositories 😁
 ---
 
 <br><br>
-<div align="center">	
+<div>	
 	
-### 📑 ProJect 📑
+### 📑 ProJect
 <br>
 
 | Date | Contents | With | Link |
