@@ -72,19 +72,17 @@ Hello ! 😁 Welcome to My Repositories 😁
 </div>
 
 
-
-
-
-<br><br>
+<br><br><br>
 
 ---
 
 <br><br>
-<div>	
 	
 ### 📑 ProJect
 <br>
 
+<div align="center">
+	
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
 | ---- 24.02 ---- | 회원 게시판 ( SpringBoot ) | 개인 프로젝트 | [🏷](https://github.com/LMH9999/springboot_auth_board) |
@@ -99,6 +97,7 @@ Hello ! 😁 Welcome to My Repositories 😁
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/LMH9999/LMH_Web_SPrj) |
 | 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
 
+</div>
 
 
 <br><br>
