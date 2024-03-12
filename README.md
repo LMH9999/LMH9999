@@ -84,6 +84,7 @@ Hello ! 😁 Welcome to My Repositories 😁
 	
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
+| ---- 24.03 ---- | 온라인 학업성취도 평가 ( SpringBoot ) |  프로젝트 | [🏷](https://github.com/Chunjae-Final/chunjae-platform) |
 | ---- 24.02 ---- | 회원 게시판 ( SpringBoot ) | 개인 프로젝트 | [🏷](https://github.com/LMH9999/springboot_auth_board) |
 | 24.01 ~ 24.02 | 클래스 아카이브 역설계 ( SpringBoot ) | 팀 프로젝트 | [🏷](https://github.com/DeumE-Project/DeumE-Archive) |
 | 23.12 ~ 24.01 | 문구 쇼핑몰 ( Spring ) | 팀 프로젝트 | [🏷](https://github.com/Last-but-not-LEAST/LBNL) |
